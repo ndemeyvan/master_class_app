@@ -1,4 +1,7 @@
-# artistic_app
+I made this project just for fun, nothing serious.
+I'm open to your criticism and corrections on how I implement some of my screens, as I always say, we learn every day.
+
+# master class app
 
 A new Flutter project.
 
